@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ControllerTest", "ControllerTest\ControllerTest.fsproj", "{00A7A0F9-08EE-4459-BADA-FE50ADAE2FDA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LIdarTest", "LIdarTest\LIdarTest.fsproj", "{7398B62D-12BD-4777-9FC1-6C64E98B47BE}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DogControl", "DogControl\DogControl.fsproj", "{708A36BE-11E1-4831-86F8-3D45CEF108B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A7A0F9-08EE-4459-BADA-FE50ADAE2FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A7A0F9-08EE-4459-BADA-FE50ADAE2FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A7A0F9-08EE-4459-BADA-FE50ADAE2FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A7A0F9-08EE-4459-BADA-FE50ADAE2FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7398B62D-12BD-4777-9FC1-6C64E98B47BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7398B62D-12BD-4777-9FC1-6C64E98B47BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7398B62D-12BD-4777-9FC1-6C64E98B47BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7398B62D-12BD-4777-9FC1-6C64E98B47BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708A36BE-11E1-4831-86F8-3D45CEF108B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708A36BE-11E1-4831-86F8-3D45CEF108B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708A36BE-11E1-4831-86F8-3D45CEF108B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708A36BE-11E1-4831-86F8-3D45CEF108B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
